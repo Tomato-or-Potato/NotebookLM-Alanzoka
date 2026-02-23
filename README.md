@@ -6,7 +6,7 @@ Este projeto utiliza o NotebookLM para gerar conteúdos relacionados ao Alanzoka
 - O mesmo foi feito com o vídeo, porém o conteúdo gerado não simulou o Alanzoka.
 
 ## Site
-O conteúdo pode ser acessado através do [GitHub Pages](https://tomato-or-potato.github.io/NotebookLM-Alanzoka/)
+O conteúdo pode ser acessado através do <a href="https://tomato-or-potato.github.io/NotebookLM-Alanzoka/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
 
 ## Exemplos de conteúdos gerados
 <img src="media/infografico.png" alt="Infográfico" width="600">
